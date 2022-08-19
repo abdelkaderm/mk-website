@@ -10,11 +10,6 @@ header:
 excerpt: Divison for Climate and Model Analyses at the Norwegian Meteoroloical Institute
 ---
 
-**This page is still under construction**
-{: .notice--warning}
-
----
-
 We aim at enhancing the accuracy, performance, and reliability of national climate the use of advanced techniques applied on observations. The focus will be on obtaining higher accurancy in predicting climate over Norway and internationally. Thus, it is aimed to support the climate community with advanced and innovative research in the fiels of weather and climate.
 
 The main key reseach areas include:
