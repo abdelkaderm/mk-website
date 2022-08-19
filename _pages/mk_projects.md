@@ -16,7 +16,7 @@ The team has been involved in several national and international collaborations 
 ## ESD, On-going
 <table>
  <tr>
-  <td width="25%" ><center> <img src=""/> </center></td>
+  <td width="25%" ><center> <img src="https://www.researchgate.net/figure/Comparison-between-changes-in-raw-ie-without-downscaling-solid-curves-and_fig2_332208453"/> </center></td>
   <td align="justify">
   Empirical-statistical downscaling toolbox include tools for analysing and visualising climate data for station data as well as gridded model results. Designed to be flexible, intuitive, and efficient. It is based on the R-environment, and consists of an R-package that comes with code, documentation and help pages. The source code is free of access and is available at Github repository. It is supported by Rmarkdown scripts which is a tool for documenting work done within R and R-shiny which is a web-based tool for making apps running R. All these tools work seamlessly with Rstudio.
  <a href=""> ORCID </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
@@ -121,21 +121,12 @@ Climate Extremes, Air Pollution and Agro-ecosystems project aims at  investigati
  </tr>
  </table>
 
-## INDICE, 2013-2015
-<table>
- <tr>
-  <td width="25%" ><center> <img src="http://www.specs-fp7.eu/sites/default/files/320px-SPECS_Logo_transparent_v12_0.png"/> </center></td>
-  <td align="justify">
-  The response of the hydrological system in India to climate change overall aim is to understand the impact of climate change on cryospheric contribution to rivers in western Himalaya and the subsequent impact on water resource availability and socio-economic status of the local community. A second objective was on capacity building of Indian partners.<br>
- <a href="https://cicero.oslo.no/en/posts/projects/cixpag-interaction-of-climate-extremes-air-pollution-and-agro-ecosystems"> Website </a>;<a href=""> LinkedIn Profile </a>; <a href=""> Google Scholars </a>
- </td>
- </tr>
- </table>
+---
 
 ## VALUE (ES-1102) 
 <table>
  <tr>
-  <td width="25%" ><center> <img src="http://www.specs-fp7.eu/sites/default/files/320px-SPECS_Logo_transparent_v12_0.png"/> </center></td>
+  <td width="25%" ><center> <img src="http://www.value-cost.eu/themes/danland/images/slideshows/baner.png"/> </center></td>
   <td align="justify">
   Validating and Integrating Downscaling Methods for Climate Change Research. 
     <br>
