@@ -1,6 +1,13 @@
-
-
-
+---
+title: "Contact"
+permalink: /contact/
+toc : false
+classes : wide
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/IMG_3148.JPG
+  caption: "Photo credit: Abdelkader Mezghani"
+---
 
 <table>
  <tr>
