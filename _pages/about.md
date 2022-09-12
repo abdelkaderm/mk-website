@@ -1,7 +1,7 @@
 ---
 title: "MK"
 layout: splash
-permalink: /about
+permalink: /about/
 hidden: true
 header:
   overlay_color: "#5e616c"
@@ -21,5 +21,5 @@ The main key reseach areas include:
 Our committment is to employ multidisciplinary approaches and innovative techniques to analyse, model, and predict both weather and climate.
 
 <p align="center">
-<img src="assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
+<img src="/assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
 </p>
