@@ -14,7 +14,7 @@ header:
    <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/rasmus2.jpeg"/></center></td> 
    <td align="justify" valign="top" style ="border: none;">
      <a href="mailto:rasmusb@met.no">Rasmus E. Benestad</a>.<br>
-     Department of Model and Climate Analyses <br>
+     Head of the Division for Model and Climate Analyses <br>
      Norwegian Meteorological Institute <br>
      Henrik Mohns Plass 1, 0313, Blindern <br>
    </td>
