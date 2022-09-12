@@ -7,10 +7,10 @@ main:
     url: /project/
   - title: Contact
     url : /contact/
-  - title: Data
-    url: /data/
-  - title: Publications
-    url : /publications/
+#  - title: Data
+#    url: /data/
+#  - title: Publications
+#    url : /publications/
   
 page_links:
   - title: Pages
@@ -25,8 +25,8 @@ page_links:
       url: /research/
     - title: Contact
       url : /contact/
-    - title: Publications
-      url : /publications/
+#    - title: Publications
+#      url : /publications/
     - title: Privacy
       url : /privacy/
 
