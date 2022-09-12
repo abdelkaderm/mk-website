@@ -19,5 +19,5 @@ Our main key reseach areas include the:
 Our committment is to employ multidisciplinary approaches and innovative techniques to analyse, model, and predict both weather and climate supporting the climate community with advanced and innovative research in those fiels.
 
 <p align="center">
-<img src="/assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
+<img src="assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
 </p>
