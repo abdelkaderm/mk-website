@@ -13,8 +13,7 @@ header:
  <tr>
    <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/rasmus2.jpeg"/></center></td> 
    <td align="justify" valign="top" style ="border: none;">
-     <a href="mail:to"> rasmusb@met.no </a>
-     <strong> Useful links</strong><br>
+     [rasmus.benestad@met.no](mailto:rasmusb@met.no)
    </td>
  </tr>
  </table>
