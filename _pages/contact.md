@@ -13,7 +13,7 @@ header:
  <tr>
    <td width="30%" style ="border: none;"><center> <img src="https://metno.github.io/mk-website/assets/images/bio/rasmus2.jpeg"/></center></td> 
    <td align="justify" valign="top" style ="border: none;">
-     [rasmus.benestad@met.no](mailto:rasmusb@met.no)
+     <a href="mailto:rasmusb@met.no">Rasmus E. Benestad</a>.<br>
    </td>
  </tr>
  </table>
