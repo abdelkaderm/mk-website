@@ -1,30 +1,25 @@
 ---
-permalink: /about/
-title: "About MK"
+title: "MK"
+layout: splash
+permalink: /about
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/IMG_3148.JPG
+  caption: "Photo credit: Abdelkader Mezghani"
+excerpt: Divison for Climate and Model Analyses at the Norwegian Meteoroloical Institute
 ---
 
-**This page is still under construction**
-{: .notice--warning}
+We aim at enhancing the accuracy, performance, and reliability of national climate the use of advanced techniques applied on observations. The focus will be on obtaining higher accurancy in predicting climate over Norway and internationally. Thus, it is aimed to support the climate community with advanced and innovative research in the fiels of weather and climate.
 
----
-
-The Division of Model and Climate Analyses main goal aims at advancing climate science in the following key themes: 
+The main key reseach areas include:
 
 * Development and scientific validation of climate prediction to support the national climate service center
-* Development of climate application over Norway and elsewhere
-* Collaboration with national and international climate research groups
+* Assessing the imapct of climate change on various sectors in Norway, the Arctic, and elsewhere
+* Collaboration with national and international research groups on weather & climate, and any related topics
 
-## Development and scientific validation of regional climate prediction
-   Add text here ...
-   
-### Downscaling of global climate models tailored for accurate climate prediction.
-    Add text here ...
+Our committment is to employ multidisciplinary approaches and innovative techniques to analyse, model, and predict both weather and climate.
 
-### Development and user evaluation of the downscaling protocol, a large database containing climate data.
-    Add text here ...
-
-### Regional climate modelling 
-   Add text here ...
-   
-### Empirical-Statistical Downscaling
-   Add text here ...
+<p align="center">
+<img src="assets/images/Met_RGB_Horisontal_ENG.jpg" width="300"/>
+</p>
