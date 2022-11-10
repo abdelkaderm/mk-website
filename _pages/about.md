@@ -10,10 +10,10 @@ header:
 excerpt: Divison for Climate and Model Analyses at the Norwegian Meteoroloical Institute
 ---
 
-Our main key reseach areas include the:
+Our main key research areas include:
 
 * Development and scientific validation of climate prediction to support the national climate service center
-* Assessing the imapct of climate change on various sectors in Norway, the Arctic, and elsewhere
+* Assessing the imapact of climate change on various sectors in Norway, the Arctic, and elsewhere
 * Collaboration with national and international research groups on weather & climate, and any related topics
 
 Our committment is to employ multidisciplinary approaches and innovative techniques to analyse, model, and predict both weather and climate supporting the climate community with advanced and innovative research in those fiels.
